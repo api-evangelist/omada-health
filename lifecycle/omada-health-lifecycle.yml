@@ -1,0 +1,11 @@
+generated: '2026-07-20'
+method: searched
+source: https://www.omadahealth.com/about-us/security
+# Omada Health publishes no public developer API, so there is no API versioning
+# or deprecation policy to capture. This lifecycle artifact records the company's
+# operational-transparency surface only.
+versioning: null
+deprecation: null
+sla: null
+status_page: https://status.omadahealth.com/
+deprecated_operations: []

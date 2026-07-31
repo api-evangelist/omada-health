@@ -1,0 +1,22 @@
+generated: '2026-07-20'
+method: searched
+source: https://www.omadahealth.com/about-us/security
+# Compliance/security posture published by Omada Health. Omada has no public
+# developer API, so cross-cutting API standards (oauth2, rfc9457, fhir, etc.)
+# cannot be asserted; the standards below are the company's published
+# healthcare security & compliance programs.
+standards:
+- id: hipaa
+  conforms: true
+  evidence: >-
+    Operates as a HIPAA covered entity and business associate; publishes a HIPAA
+    Notice of Privacy Practices (https://www.omadahealth.com/hipaa-notice).
+- id: soc2
+  conforms: true
+  evidence: AICPA SOC 2 certified per https://www.omadahealth.com/about-us/security and trust center.
+- id: hitrust-csf
+  conforms: true
+  evidence: HITRUST CSF Certified per https://www.omadahealth.com/about-us/security.
+- id: pen-testing
+  conforms: true
+  evidence: Annual third-party penetration testing by independent security firms.

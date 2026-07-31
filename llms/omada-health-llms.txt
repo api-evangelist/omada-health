@@ -1,0 +1,23 @@
+# Omada Health
+
+> Omada Health is a virtual-first healthcare company (founded 2011, San Francisco) delivering evidence-based chronic disease management programs — prediabetes, type 2 diabetes, hypertension, cholesterol, MSK, and GLP-1 support — to employers, health plans, and health systems. It operates as a HIPAA covered entity and business associate. Omada publishes no public developer API; this profile captures company identity, security/compliance posture, and operational transparency.
+
+## Company
+- [Website](https://www.omadahealth.com): Omada Health home
+- [About](https://www.omadahealth.com/about-us): Company overview, mission, and programs
+- [Help Center](https://support.omadahealth.com/hc/en-us): Member support and FAQs
+- [Contact](https://www.omadahealth.com/contact): Contact and partnership inquiries
+- [Investors](https://investors.omadahealth.com/): Investor relations (publicly traded)
+
+## Security & Compliance
+- [Data Security](https://www.omadahealth.com/about-us/security): HITRUST CSF Certified, AICPA SOC 2 Certified, HIPAA, annual third-party penetration testing
+- [Trust Center](https://trust.omadahealth.com/): SafeBase-hosted certification and compliance documentation
+- [Status Page](https://status.omadahealth.com/): System availability and uptime
+- [HIPAA Notice](https://www.omadahealth.com/hipaa-notice): Notice of Privacy Practices
+
+## Legal
+- [Privacy Policy](https://www.omadahealth.com/privacy-policy)
+- [Terms of Use](https://www.omadahealth.com/terms-of-use)
+
+## Notes
+- No public API, developer portal, SDKs, MCP server, or OpenAPI is published as of this profile (2026-07-20). api.omadahealth.com exists but returns 403 (protected/internal).

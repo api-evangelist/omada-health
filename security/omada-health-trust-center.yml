@@ -1,0 +1,20 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://trust.omadahealth.com/
+url: https://trust.omadahealth.com/
+certifications:
+- SOC 2
+- HITRUST CSF
+- HIPAA
+evidence:
+- source: https://trust.omadahealth.com/
+  keywords:
+  - soc 2
+  - hipaa
+  - trust center
+- source: https://www.omadahealth.com/about-us/security
+  keywords:
+  - hitrust csf certified
+  - aicpa soc2 certified
+  - hipaa covered entity
