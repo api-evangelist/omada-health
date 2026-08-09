@@ -1,17 +1,14 @@
 aid: omada-health
 name: Omada Health
-description: >-
-  Omada Health is a virtual-first healthcare company founded in 2011 and headquartered
-  in San Francisco that delivers integrated, evidence-based care programs for chronic
-  disease management. Omada combines one-on-one health coaching, connected smart devices
-  (cellular scales, blood pressure monitors, glucose meters), interactive lessons, and
-  peer communities to support people managing prediabetes, type 2 diabetes, hypertension,
-  high cholesterol, and musculoskeletal (MSK) conditions, along with GLP-1 medication
-  support and weight health. The company sells to employers, health plans, benefit
-  consultants, and health systems rather than to individual consumers directly, and
-  operates as a HIPAA covered entity and business associate. Omada Health is publicly
-  traded and is a portfolio company of Andreessen Horowitz (a16z). It has no publicly
-  documented developer API surface; this profile captures the company's public identity,
+description: Omada Health is a virtual-first healthcare company founded in 2011 and headquartered in San
+  Francisco that delivers integrated, evidence-based care programs for chronic disease management. Omada
+  combines one-on-one health coaching, connected smart devices (cellular scales, blood pressure monitors,
+  glucose meters), interactive lessons, and peer communities to support people managing prediabetes, type
+  2 diabetes, hypertension, high cholesterol, and musculoskeletal (MSK) conditions, along with GLP-1 medication
+  support and weight health. The company sells to employers, health plans, benefit consultants, and health
+  systems rather than to individual consumers directly, and operates as a HIPAA covered entity and business
+  associate. Omada Health is publicly traded and is a portfolio company of Andreessen Horowitz (a16z).
+  It has no publicly documented developer API surface; this profile captures the company's public identity,
   security/compliance posture, and operational transparency pages.
 url: https://raw.githubusercontent.com/api-evangelist/omada-health/refs/heads/main/apis.yml
 accessModel:
@@ -34,7 +31,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-08-08'
 tags:
 - Company
 - Digital Health
@@ -76,8 +73,14 @@ common:
   url: https://status.omadahealth.com/
 - type: LLMsTxt
   url: llms/omada-health-llms.txt
+- type: Blog
+  url: https://www.omadahealth.com/resource-center-latest
+- type: GitHubOrganization
+  url: https://github.com/omadahealth
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-merged-from:
+- omadahealth
