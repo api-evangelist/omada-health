@@ -42,7 +42,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-08-08'
+modified: '2026-10-06'
 tags:
 - Company
 - Digital Health
@@ -60,6 +60,10 @@ x-enrichment:
   artifacts_added: 5
   pass: local-v1
 common:
+- url: https://www.omadahealth.com/resource-center/tag/articles
+  type: Blog
+- url: https://www.omadahealth.com/resource-center/rss.xml
+  type: BlogRSS
 - type: TrustCenter
   url: security/omada-health-trust-center.yml
 - type: DomainSecurity
