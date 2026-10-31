@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Omada Health is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Omada Health is a virtual-first healthcare company founded in 2011 and headquartered in San Francisco that delivers integrated, evidence-based care programs for chronic disease management. Omada combines one-on-one health coaching, connected smart devices (cellular scales, blood pressure monitors, glucose meters), interactive lessons, and peer communities to support people managing prediabetes, type 2 diabetes, hypertension, high cholesterol, and musculoskeletal (MSK) conditions, along with GLP-1 medication support and weight health. The company sells to employers, health plans, benefit consultants, and health systems rather than to individual consumers directly, and operates as a HIPAA covered entity and business associate. Omada Health is publicly traded and is a portfolio company of Andreessen Horowitz (a16z). It has no publicly documented developer API surface; this profile captures the company's public identity, security/compliance posture, and operational transparency pages.
 
-Backed by: a16z
+**Areas:** Company · Digital Health · Virtual Care · Chronic Disease Management · Diabetes · Hypertension · Healthcare · HIPAA · Telehealth
+
+## Omada Health on APIs.io
+
+Everything profiled for Omada Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/omada-health/](https://apis.io/providers/omada-health/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Omada Health Domain Security](https://apis.io/security/omada-health/omada-health-domain-security/)
+- [Omada Health Trust Center](https://apis.io/security/omada-health/omada-health-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.omadahealth.com)
+- [Support](https://support.omadahealth.com/hc/en-us)
+- [Blog](https://www.omadahealth.com/resource-center/tag/articles)
+- [Compliance](https://www.omadahealth.com/about-us/security)
+- [Terms of service](https://www.omadahealth.com/terms-of-use)
+- [Privacy policy](https://www.omadahealth.com/privacy-policy)
+- [GitHub](https://github.com/omadahealth)
+- [Status](https://status.omadahealth.com/)
+
+## API Evangelist rating
+
+**Kin Score 19.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 36.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/omada-health/](https://apis.io/providers/omada-health/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Omada Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/omada-health/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
